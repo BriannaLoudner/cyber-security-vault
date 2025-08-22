@@ -3,9 +3,11 @@
  Summery:
  Module 1 introduced the basics of cybersecurity and the growing threat landscape. I learned how attackers exploit system vulnerabilities and how personal habits, like strong passwords and cautious online behavior, play a critical role in protecting my own data.
  
-Artifact: https://briannaloudner.github.io/cyber-security-vault/
+Artifact: https://github.com/BriannaLoudner/cyber-security-vault
 
-<img width="1920" height="1080" alt="Screenshot 2025-08-21 231047" src="https://github.com/user-attachments/assets/0b3f39a9-c49c-4544-afc1-ace8dece6c2c" />
+<img width="1920" height="1080" alt="Screenshot 2025-08-22 001902" src="https://github.com/user-attachments/assets/4bc4694e-b9e4-4882-b153-6d47ac605e20" />
+
+
 
 
 Reflection:
