@@ -1,5 +1,6 @@
 # Week 1 – Introduction to Security Awareness
  
+ 
  Module 1 introduced the basics of cybersecurity and the growing threat landscape. I learned how attackers exploit system vulnerabilities and how personal habits, like strong passwords and cautious online behavior, play a critical role in protecting my own data.
  
 
