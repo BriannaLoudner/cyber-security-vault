@@ -13,7 +13,9 @@
   <section>
     <h2>Projects</h2>
     <ul>
-       <li><a href="reflection.html">Cybersecurity Reflections</a></li>
+       <li>Interactive Labs</a></li>
+       <li>Case Projects</a></li>
+      <li>Reflections</a></li>
     </ul>
   </section>
 
