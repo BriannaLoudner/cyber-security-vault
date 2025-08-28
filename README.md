@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html>
 <head>
   Security Awareness Portfolio
@@ -13,9 +13,9 @@
   <section>
     <h2>Projects</h2>
     <ul>
-       <li>Interactive Labs</a></li>
-       <li>Case Projects</a></li>
-      <li>Reflections</a></li>
+       <li>Interactive Labs</li>
+       <li>Case Projects</li>
+      <li>Reflections</li>
     </ul>
   </section>
 
