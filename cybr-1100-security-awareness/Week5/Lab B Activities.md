@@ -28,3 +28,16 @@ Download Lab Here: [Lab_activity_Who_owns_your_data_Complete.pdf](https://github
 
 
 > ⚠️ Ownership doesn’t mean control. Once it’s uploaded, the provider has legal rights to use it in ways I might not expect.
+## 🕵️‍♀️ What Was Taken
+
+This section highlights notable cybersecurity breaches and the types of data or assets that were compromised. Each example includes key details to support awareness, prevention strategies, and outreach storytelling.
+
+| Incident Date | Affected Organization | What Was Taken | Exploits Used | How to Prevent This Breach | Reference Source |
+|---------------|------------------------|----------------|----------------|-----------------------------|------------------|
+| Dec 2020      | SolarWinds             | Source code, customer data | Supply chain compromise | Zero-trust architecture, vendor vetting | [CISA.gov](https://www.cisa.gov) |
+| Sept 2017     | Equifax                | SSNs, birth dates, addresses | Unpatched Apache Struts vulnerability | Regular patching, vulnerability scanning | [FTC.gov](https://www.ftc.gov) |
+| May 2021      | Colonial Pipeline      | Operational data, billing systems | Ransomware via compromised password | MFA, network segmentation | [Cybersecurity Dive](https://www.cybersecuritydive.com) |
+| July 2023     | MOVEit Transfer        | Sensitive files from gov & private orgs | SQL injection vulnerability | Secure coding practices, WAF | [KrebsOnSecurity](https://krebsonsecurity.com) |
+| April 2024    | UnitedHealth Group     | Patient data, insurance records | Credential theft, lateral movement | Endpoint detection, user training | [HealthITSecurity](https://healthitsecurity.com) |  
+
+Download the finished PDF here: [What_was_taken (completed).pdf](https://github.com/user-attachments/files/22454602/What_was_taken.completed.pdf)
