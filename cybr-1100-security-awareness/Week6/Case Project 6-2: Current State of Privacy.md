@@ -6,8 +6,8 @@ The U.S. still doesn’t have a one-size-fits-all federal privacy law. Instead, 
 - In 2025, eight more states joined the privacy party: Delaware, Iowa, Nebraska, New Hampshire, New Jersey, Tennessee, Minnesota, and Maryland.  
 - Maryland’s Online Data Privacy Act is especially spicy; it bans targeted ads to minors and forces companies to chill on data hoarding.   
 
-Meanwhile, Congress keeps tossing around bills like the American Privacy Rights Act (APRA), but nothing’s landed yet. So we’re stuck with uneven protections and a whole lot of “wait and see.”  
-## 🧩 Is That Enough?  
+Meanwhile, Congress continues to introduce bills, such as the American Privacy Rights Act (APRA), but nothing has been enacted yet. So we’re stuck with uneven protections and a whole lot of “wait and see.”  
+## 🧩 But Is That Enough?  
 Short answer: nope.  
 - The rules vary wildly depending on where you live.  
 - Small businesses and nonprofits often slip through the cracks.  
@@ -21,3 +21,5 @@ If I were calling the shots, I’d push for:
 - Public education campaigns that explain privacy in plain English.  
 ## 🧵 Final Thought  
 Privacy shouldn’t be a scavenger hunt buried in your settings menu. It should be baked in, like grandma’s cornbread; simple, solid, and no surprises. Until then, we’ve got work to do.  
+
+Download the Formal Paper Here: [Week 6 - Case Project 6-2.docx](https://github.com/user-attachments/files/22704289/Week.6.-.Case.Project.6-2.docx)
