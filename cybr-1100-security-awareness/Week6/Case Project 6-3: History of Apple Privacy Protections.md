@@ -2,7 +2,7 @@
 Since 2010, Apple has steadily reshaped its privacy strategy, partly to protect users and partly to differentiate itself from Google’s data-hungry empire. Back then, privacy was buried in settings menus and legalese. Now, it’s front and center in Apple’s marketing, with slogans like “Privacy. That’s iPhone.”  
 ## 🔐 Key Changes Since 2010
 - App Tracking Transparency (2021):  
-Apps must ask permission before tracking users across other apps and websites. This hit advertisers hard, giving users more control.  
+Apps must ask permission before tracking users across other apps and websites. This hit advertisers hard, giving users more control over their data.  
 - On-Device Processing:  
 Features like Siri, Face ID, and Health data are increasingly processed on the phone itself, rather than being sent to Apple’s servers.  
 - Privacy Nutrition Labels (2020):  
@@ -26,3 +26,4 @@ Generally, iPhones offer better default privacy:
 
 Still, neither platform is flawless. Both respond to government data requests, and both have had privacy missteps. The real win? Users who know how to navigate their settings and permissions.  
  
+Download the Formal Paper Here: [Week 6 - Case Project 6-3.docx](https://github.com/user-attachments/files/22704601/Week.6.-.Case.Project.6-3.docx)
