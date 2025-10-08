@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # Currently available options are "default", "air"
+site_theme               : "air" # Currently available options are "default", "air"
 title                    : " Brianna Loudner / Cyber Vault "
 title_separator          : "-"
 name                     : &name "Brianna Loudner"
