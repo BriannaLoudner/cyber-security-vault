@@ -1,4 +1,4 @@
-
+theme: jekyll-theme-minimal
 <html>
 <head>
   Security Awareness Portfolio
