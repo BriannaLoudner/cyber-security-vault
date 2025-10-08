@@ -1,7 +1,7 @@
 theme: jekyll-theme-minimal
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "jekyll-theme-minimal" # Currently available options are "default", "air"
+site_theme               : "default" # Currently available options are "default", "air"
 title                    : " Brianna Loudner / Cyber Vault "
 title_separator          : "-"
 name                     : &name "Brianna Loudner"
@@ -15,23 +15,23 @@ repository               : "https://github.com/BriannaLoudner/cyber-security-vau
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Brianna Loudner"
+  pronouns         : "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Ohio"
+  employer         : ""
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "briannaloudner@gmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : ""
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : ""
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : ""
   researchgate     : # URL
   scopus           : # URL
 
