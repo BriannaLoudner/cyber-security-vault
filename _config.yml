@@ -1,1 +1,11 @@
 theme: jekyll-theme-minimal
+# Basic Site Settings
+locale                   : "en-US"
+site_theme               : "default" # Currently available options are "default", "air"
+title                    : " Brianna Loudner / Cyber Vault "
+title_separator          : "-"
+name                     : &name "Brianna Loudner"
+description              : &description "I am working on a medical informatics degree at Hocking College, and as a result, I am pursuing an often overlooked portion of the medical field: Cyber Security. This is what I have learned."
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
+repository               : "academicpages/academicpages.github.io"
