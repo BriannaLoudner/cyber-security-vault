@@ -20,4 +20,10 @@
 <sub>*Your digital chainsaw and bunker combo.</sub>
 
 ## *Call to Action:*
-Train. Patch. Protect. Don’t Be the Weak Link.
+Train. Patch. Protect. Don’t Be the Weak Link.  
+
+## Malware Infographic PNG:  
+<img width="1024" height="1536" alt="Malware Survival Infographic" src="https://github.com/user-attachments/assets/2576e0ac-225b-48bb-9370-bd1a9cc5ae71" />
+
+## Malware Infographic PDF:
+[Malware Inforgraphic.pdf](https://github.com/user-attachments/files/22786522/Malware.Inforgraphic.pdf)
