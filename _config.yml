@@ -1,37 +1,45 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# `jekyll serve -l -H localhost`. If you change this file, please restart the 
+# server process.
 theme: jekyll-theme-minimal
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : " Brianna Loudner / Cyber Vault "
+title                    : " / "
 title_separator          : "-"
-name                     : &name "Brianna Loudner"
-description              : &description "I am working on a medical informatics degree at Hocking College, and as a result, I am pursuing an often overlooked portion of the medical field: Cyber Security. This is what I have learned."
+name                     : &name ""
+description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/BriannaLoudner/cyber-security-vault"
+repository               : "academicpages/academicpages.github.io"
+
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Brianna Loudner"
-  pronouns         : "she/her"  
+  name             : "Your Sidebar Name"
+  pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Ohio"
-  employer         : ""
+  location         : "Earth"
+  employer         : "Red Brick University"
   uri              : # URL
-  email            : "briannaloudner@gmail.com" 
+  email            : "none@example.org" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : ""
+  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : ""
+  orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
-  pubmed           : ""
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
